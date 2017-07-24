@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>doc/exit.htm</file>
+        <file>doc/index.htm</file>
+        <file>doc/new.htm</file>
+        <file>doc/open.htm</file>
+        <file>doc/save.htm</file>
+        <file>doc/save_as.htm</file>
+        <file>icons/abouticon.jpg</file>
+        <file>icons/copyicon.jpg</file>
+        <file>icons/cuticon.png</file>
+        <file>icons/helpicon.png</file>
+        <file>icons/openicon.png</file>
+        <file>icons/pasteicon.png</file>
+        <file>icons/quiticon.png</file>
+        <file>icons/saveasicon.png</file>
+        <file>icons/saveicon.png</file>
+        <file>icons/selectallicon.png</file>
+        <file>icons/undoicon.png</file>
+        <file>icons/newicon.png</file>
+    </qresource>
+</RCC>
